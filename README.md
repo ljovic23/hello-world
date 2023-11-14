@@ -36,6 +36,6 @@ Za više informacija o Gitu i GitHubu, posjetite [GitHub Docs](https://docs.gith
 
 ## Pogledajte našu stranicu!
 
-Projekt je živ i dostupan za pregled na: [VašeKorisničkoIme.github.io/hello-world](https://VašeKorisničkoIme.github.io/hello-world)
+Projekt je živ i dostupan za pregled na: [VašeKorisničkoIme.github.io/hello-world](https://ljovic23.github.io/hello-world/)
 
 Ova stranica će se ažurirati kako projekt napreduje. Povremeno se vratite kako biste vidjeli najnovije promjene i dodatke.
